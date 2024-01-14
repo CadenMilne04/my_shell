@@ -1,5 +1,5 @@
 # My Linux Shell
-A linux shell written in C which can load custum plugins, run user programs, and exit.
+A linux shell written in C which can load custom plugins, run user programs, and exit.
 
 ## Demo 🧪
 
@@ -17,4 +17,4 @@ A linux shell written in C which can load custum plugins, run user programs, and
 - Load pustom plugins 🔌
 - Run those plugins 🏃‍♂️
 - Run any user binary 🧑‍💻
-- exit to leave
+- "exit" to leave
